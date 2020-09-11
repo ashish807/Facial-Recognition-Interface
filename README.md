@@ -10,6 +10,8 @@ Here, we try to make shopping, one of the most common activities, more safe and 
 Usually, a person goes to a store, buys the stuff he/she wants, pays for it at the counter, and exits the store. 
 The difference in our project is, with our model, a person can just walk into a store, and walk out, **without having to come in contact with a cashier**.
 
+Link to: Presentation
+Link to: Demo video
 
 ### Assumptions/Requirements:
 -> The person has an E-Commerce account (eg. Amazon, GPay, etc.)
