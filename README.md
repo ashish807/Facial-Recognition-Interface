@@ -65,6 +65,8 @@ jaspreet099@gmail.com
 https://github.com/J-Singh99/  
   
   
-Ashish Adhikari
+**Ashish Adhikari**
+ashish.adhikari727@gmail.com
+https://github.com/ashish807/
 
 
