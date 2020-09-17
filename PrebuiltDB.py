@@ -17,7 +17,7 @@ Entry2 = {
     "Gender": 'M',
     "Number": 9517599874,
     "Balance": 12345,
-    "FileName":"Training Folder/Ashish.jpeg"
+    "FileName":"Training Folder/Ashish.jpg"
 }
 
 Entry3 = {
